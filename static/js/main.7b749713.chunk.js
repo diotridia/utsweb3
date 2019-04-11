@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[function(n,o,t){n.exports=t(1)},function(n,o){document.getElementById("tUbahWarna").onclick=function(){document.body.classList.toggle("biru-muda")}}],[[0,1]]]);
-//# sourceMappingURL=main.7b749713.chunk.js.map
